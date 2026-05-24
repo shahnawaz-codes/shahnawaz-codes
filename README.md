@@ -14,7 +14,7 @@
 
 3rd-year CS student. I build full-stack web apps using the MERN stack and Next.js — from auth systems and REST APIs to complete production-ready applications. Currently expanding into AI integrations to make web apps smarter without losing sight of solid engineering fundamentals.
 
-> **Currently building:** RAG application with Python · FastAPI · Groq
+> **Currently exploring:** AI integrations · AI Agents · Scalable GenAI systems
 
 ---
 
@@ -23,8 +23,8 @@
 <div align="center">
 
 **Languages**
-
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 
 **Frontend**
